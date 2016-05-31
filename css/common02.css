@@ -1,0 +1,55 @@
+body {
+    margin: 0 auto 0 auto;
+    background-color: #ff9900;
+}
+body section{
+    margin: 0 auto 0 auto;
+    background-color: #f7f7f7;
+}
+
+header {
+    width: 1200px;
+    height: 100px;
+    margin: 0 auto 0 auto;
+    background-color: #ffcc00;
+}
+header div{
+    width: 1200px;
+    margin:  0 auto 0 auto;
+}
+header div h1 {
+    height: 60px;
+    line-height: 60px;
+    color: #92e5fe;
+    background-color: #28a6cc;
+    margin: 0;
+    padding: 0 0 0 10px;
+}
+header nav{
+    width: 100%;
+    background-color: #394548;
+}
+header ul {
+    width: 1200px;
+    height: 40px;
+    margin: 0 auto 0 auto;
+    padding: 0;
+    background-color: #394548;
+}
+header ul li {
+    float: left;
+    width: 240px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    list-style:none;
+    color: #62b4cc;
+
+}
+
+footer {
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto 0 auto;
+    background-color: #0b303b;
+}
