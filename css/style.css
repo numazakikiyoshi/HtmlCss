@@ -68,3 +68,12 @@
     color: #92e5fe;
     text-align: center;
 }
+#sa{
+    float: left;
+    width: 240px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    list-style:none;
+    color: #ff9900;
+}

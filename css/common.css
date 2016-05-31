@@ -40,7 +40,16 @@ header ul li {
     text-align: center;
     list-style:none;
     color: #ff9900;
+}
 
+body div nav ul li {
+    float: left;
+    width: 240px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    list-style:none;
+    color: #ff9900;
 }
 
 footer {
